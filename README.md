@@ -62,8 +62,8 @@ From James Kettle's research:
 
 ### **1. Installation**
 ```bash
-git clone https://github.com/your-repo/http1-must-die
-cd http1-must-die
+git clone [https://github.com/](https://github.com/bugdisclose/HTTP-must-die-Scanner-and-Lab)
+cd HTTP-must-die-Scanner-and-Lab
 python3 setup.py
 ```
 
